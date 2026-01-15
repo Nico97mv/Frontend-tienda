@@ -1,0 +1,487 @@
+[
+  {
+    "id": 1,
+    "title": "Bolso Shopper",
+    "description": "Bolso shopper marron con detalles metálicos.",
+    "price": 8999,
+    "image": "/images/cartera.webp",
+    "category": "Bolsos"
+  },
+  {
+    "id": 2,
+    "title": "Bolso Kuchen",
+    "description": "Bolso mediano color bordo.",
+    "price": 4999,
+    "image": "/images/cartera1.jpg",
+    "category": "Bolsos"
+  },
+  {
+    "id": 3,
+    "title": "Bolso Mochila",
+    "description": "Mochila roja con detalles en blanco.",
+    "price": 7499,
+    "image": "/images/cartera2.jpg",
+    "category": "Bolsos"
+  },
+  {
+    "id": 4,
+    "title": "Bolso negro de cuero",
+    "description": "Mochila negra con compartimentos múltiples.",
+    "price": 7499,
+    "image": "/images/cartera3.jpg",
+    "category": "Bolsos"
+  },
+  {
+    "id": 5,
+    "title": "Bolso Mochila",
+    "description": "Bolso mochila beige en oferta 2x1",
+    "price": 7499,
+    "image": "/images/cartera4.jpg",
+    "category": "Bolsos"
+  },
+  {
+    "id": 6,
+    "title": "Bolso Urbano",
+    "description": "Bolso urbano con tiras de cuerina marron",
+    "price": 7499,
+    "image": "/images/cartera5.jpg",
+    "category": "Bolsos"
+  },
+  {
+    "id": 7,
+    "title": "Bolso de mano",
+    "description": "Bolso de mano tipo monedero",
+    "price": 7499,
+    "image": "/images/cartera6.jpg",
+    "category": "Bolsos"
+  },
+
+  {
+    "id": 8,
+    "title": "Bolso Clasico",
+    "description": "Bolso negro estilo clasico",
+    "price": 7499,
+    "image": "/images/cartera7.webp",
+    "category": "Bolsos"
+  },
+
+  
+  {
+    "id": 9,
+    "title": "Bolso chico",
+    "description": "Bolso chico color rojo",
+    "price": 7499,
+    "image": "/images/cartera8.webp",
+    "category": "Bolsos"
+  },
+  {
+    "id": 10,
+    "title": "Bolso Mediano",
+    "description": "Bolso mediano color rojo",
+    "price": 7499,
+    "image": "/images/cartera9.webp",
+    "category": "Bolsos"
+  },
+  {
+    "id": 11,
+    "title": "Reloj Casio",
+    "description": "Reloj Casio metalizado.",
+    "price": 7499,
+    "image": "/images/reloj1.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 12,
+    "title": "Reloj de cuero",
+    "description": "Reloj de cuero de diversos colores",
+    "price": 7499,
+    "image": "/images/reloj2.jpg",
+    "category": "Accesorios"
+  },
+  
+{
+    "id": 13,
+    "title": "Reloj tipo brujula",
+    "description": "Reloj tipo brujula con correa de cuero",
+    "price": 7499,
+    "image": "/images/reloj3.jpg",
+    "category": "Accesorios"
+  },
+
+  {
+    "id": 14,
+    "title": "Reloj Casio",
+    "description": "Reloj Casio metalizado.",
+    "price": 7499,
+    "image": "/images/reloj4.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 15,
+    "title": "Reloj Touni",
+    "description": "Reloj Touni metalizado con fondo claro.",
+    "price": 8999,
+    "image": "/images/reloj5.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 16,
+    "title": "Reloj Touni",
+    "description": "Reloj Touni metalizado con fondo oscuro.",
+    "price": 4999,
+    "image": "/images/reloj6.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 17,
+    "title": "Reloj Lacoste",
+    "description": "Reloj Lacoste con correa de silicona.",
+    "price": 7499,
+    "image": "/images/reloj7.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 18,
+    "title": "Reloj metalizado",
+    "description": "Reloj metalizado con diseño elegante.",
+    "price": 7499,
+    "image": "/images/reloj8.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 19,
+    "title": "Reloj de Juguete",
+    "description": "Reloj de juguete para niños.",
+    "price": 7499,
+    "image": "/images/reloj9.webp",
+    "category": "Accesorios"
+  },
+  {
+    "id": 20,
+    "title": "Reloj con imagenes",
+    "description": "Reloj con imagenes en el fondo.",
+    "price": 7499,
+    "image": "/images/reloj10.webp",
+    "category": "Accesorios"
+  },
+  {
+    "id": 21,
+    "title": "Agenda con Diseño",
+    "description": "Agenda con cubierta de diseño moderno.",
+    "price": 7499,
+    "image": "/images/agenda1.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 22,
+    "title": "Agenda de docente",
+    "description": "Agenda ideal para el docente",
+    "price": 7499,
+    "image": "/images/agenda2.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 23,
+    "title": "Agenda de Kuzco",
+    "description": "Agenda para Niños con diseño de Kuzco.",
+    "price": 7499,
+    "image": "/images/agenda3.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 24,
+    "title": "Agenda con Diseño floral",
+    "description": "Agenda con cubierta de diseño floral.",
+    "price": 7499,
+    "image": "/images/agenda4.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 25,
+    "title": "Agenda con Diseño floral",
+    "description": "Agenda con cubierta de diseño floral.",
+    "price": 7499,
+    "image": "/images/agenda5.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 26,
+    "title": "Agenda con brillo",
+    "description": "Agenda con cubierta brillante y colorida.",
+    "price": 7499,
+    "image": "/images/agenda6.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 27,
+    "title": "Agenda con Diseño",
+    "description": "Agenda con cubierta de diseño colorido.",
+    "price": 7499,
+    "image": "/images/agenda7.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 28,
+    "title": "Agenda de Personajes",
+    "description": "Agenda con personajes animados en la cubierta.",
+    "price": 7499,
+    "image": "/images/agenda8.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 29,
+    "title": "Agenda con Diseño",
+    "description": "Agenda con cubierta de diseño moderno.",
+    "price": 7499,
+    "image": "/images/agenda9.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 30,
+    "title": "Agenda para Niños",
+    "description": "Agendas con diseño infantil y colorido.",
+    "price": 7499,
+    "image": "/images/agenda10.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 31,
+    "title": "Agenda con Diseño",
+    "description": "Agenda con cubierta de diseño moderno.",
+    "price": 7499,
+    "image": "/images/agenda11.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 32,
+    "title": "Agenda con Diseño floral",
+    "description": "Agenda con cubierta de diseño floral.",
+    "price": 7499,
+    "image": "/images/agenda12.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 33,
+    "title": "Agenda con Diseño",
+    "description": "Agenda con cubierta de diseño moderno.",
+    "price": 7499,
+    "image": "/images/agenda13.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 34,
+    "title": "Agenda con Diseño",
+    "description": "Agenda con cubierta de diseño moderno.",
+    "price": 7499,
+    "image": "/images/agenda14.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 35,
+    "title": "Agenda para Niños",
+    "description": "Agendas con diseño infantil y colorido.",
+    "price": 7499,
+    "image": "/images/agenda15.jpg",
+    "category": "Agendas"
+  },
+  {
+    "id": 36,
+    "title": "Mochila Urbana",
+    "description": "Mochila negra con compartimentos múltiples.",
+    "price": 7499,
+    "image": "/images/aros1.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 37,
+    "title": "Mochila Urbana",
+    "description": "Mochila negra con compartimentos múltiples.",
+    "price": 7499,
+    "image": "/images/aros2.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 38,
+    "title": "Mochila Urbana",
+    "description": "Mochila negra con compartimentos múltiples.",
+    "price": 7499,
+    "image": "/images/aros3.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 39,
+    "title": "Mochila Urbana",
+    "description": "Mochila negra con compartimentos múltiples.",
+    "price": 7499,
+    "image": "/images/aros4.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 40,
+    "title": "Mochila Urbana",
+    "description": "Mochila negra con compartimentos múltiples.",
+    "price": 7499,
+    "image": "/images/aros5.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 41,
+    "title": "Pulseras metalizada",
+    "description": "pulsera ancha metalizada color dorado.",
+    "price": 7499,
+    "image": "/images/pulseras1.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 42,
+    "title": "Pulsera brillosa de colores",
+    "description": "pulsera ancha con brillitos de colores ",
+    "price": 7499,
+    "image": "/images/pulseras2.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 43,
+    "title": "Pulsera ojo turco",
+    "description": "pulsera con dijes de ojo turco",
+    "price": 7499,
+    "image": "/images/pulseras3.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 44,
+    "title": "Pulseras clasicas ",
+    "description": "pulseras con detalles clasicos ",
+    "price": 7499,
+    "image": "/images/pulseras4.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 45,
+    "title": "Pulsera metalizada",
+    "description": "pulsera con diferentes dijes.",
+    "price": 7499,
+    "image": "/images/pulseras5.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 46,
+    "title": "Pulseras con bolitas coloridas",
+    "description": "pulseras clasicas con bolitas de colores",
+    "price": 7499,
+    "image": "/images/pulseras6.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 47,
+    "title": "Pulseras metalicas tipo gotica",
+    "description": "pulseras metalicas con diferentes dijes tipo gotica.",
+    "price": 7499,
+    "image": "/images/pulseras7.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 48,
+    "title": "Pulsera tipo pandora.",
+    "description": "pulsera tipo pandora con dijes variados.",
+    "price": 7499,
+    "image": "/images/pulseras8.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 49,
+    "title": "Pulseras tipo pandora ",
+    "description": "pulsera tipo pandora con dijes variados de diferentes colores.",
+    "price": 7499,
+    "image": "/images/pulseras9.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 50,
+    "title": "Pulsera de gato ",
+    "description": "pulsera clasica con dije de gato negro ",
+    "price": 7499,
+    "image": "/images/pulseras10.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 51,
+    "title": "Pulseras de bolitas",
+    "description": "pulseras de bolitas de colores variados",
+    "price": 7499,
+    "image": "/images/pulseras11.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 52,
+    "title": "Pulseras de animales ",
+    "description":"pulsera basica color negro con dije de animal.",
+    "price": 7499,
+    "image": "/images/pulseras12.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 53,
+    "title": "Pulsera de perro",
+    "description": "pulsera negra con dije de perro.",
+    "price": 7499,
+    "image": "/images/pulseras13.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 54,
+    "title": "Pulsera basica para niños.",
+    "description": "pulsera basica de colores variados.",
+    "price": 7499,
+    "image": "/images/pulseras14.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 55,
+    "title": "Pulsera metalizada flexible",
+    "description": "pulsera metalizada basica.",
+    "price": 7499,
+    "image": "/images/pulseras15.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 56,
+    "title": "Cadena de trebol",
+    "description": "cadena y aritos de trebol color negro y celeste.",
+    "price": 7499,
+    "image": "/images/cadenas1.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 57,
+    "title": "Cadena  de trebol ",
+    "description": "cadena y aritos de trebol color blanco,",
+    "price": 7499,
+    "image": "/images/cadenas2.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 58,
+    "title": "Cadena de trebol.",
+    "description": "cadena y aritos de trebol color negro y cian.",
+    "price": 7499,
+    "image": "/images/cadenas3.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 59,
+    "title": "Cadena de trebol",
+    "description": "cadena y arito de trebol color negro.",
+    "price": 7499,
+    "image": "/images/cadenas4.jpg",
+    "category": "Accesorios"
+  },
+    {
+    "id": 60,
+    "title": "Cadena  de trebol ",
+    "description": "cadena y aritos de trebol color negro y rojo.",
+    "price": 7499,
+    "image": "/images/cadenas5.jpg",
+    "category": "Accesorios"
+  }
+]
